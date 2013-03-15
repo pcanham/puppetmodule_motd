@@ -1,4 +1,4 @@
-name    'puppetmodule_motd'
+name    'puppetmodule-motd'
 version '0.01'
 source  'git@git-infra.internal:puppet/puppetmodule_motd.git'
 author   'pcanham'
