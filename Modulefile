@@ -1,9 +1,9 @@
-name 'puppetmodule_motd'
+name 'motd'
 version '0.01'
 
 author 'pcanham'
 license ''
 project_page ''
-source ''
+source 'http://git-infra.internal/puppet/puppetmodule_motd.git'
 summary 'Message Of The Day Banner'
-description ''
+description 'Simple module to maintain /etc/issue + /etc/motd'
