@@ -1,5 +1,5 @@
-name 'pcanham-puppetmodule_motd'
-version ''
+name 'puppetmodule_motd'
+version '0.01'
 
 author 'pcanham'
 license ''
