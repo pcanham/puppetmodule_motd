@@ -1,5 +1,5 @@
 name	'puppetmodule-motd'
-version	'0.01'
+version	'0.0.1'
 source	'git@git-infra.internal:puppet/puppetmodule_motd.git'
 author	'pcanham'
 license	''
