@@ -1,0 +1,3 @@
+# puppetmodule_motd #
+
+This is the puppetmodule_motd module. It provides...

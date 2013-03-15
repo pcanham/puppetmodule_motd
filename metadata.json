@@ -1,0 +1,21 @@
+{
+  "name": "pcanham-puppetmodule_motd",
+  "author": "pcanham",
+  "description": "",
+  "license": "",
+  "project_page": "",
+  "source": "",
+  "summary": "Message Of The Day Banner",
+  "version": "",
+  "checksums": {
+    "Modulefile": "90587c96aa1b724ab666bb996ebcb42c",
+    "README.markdown": "e80f43ffdf280d7bfc1090ce8110f2a8",
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "manifests\\init.pp": "7f083f2a3fb31935ac16119d09b28df7",
+    "spec\\spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "spec\\spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "templates\\motd.erb": "539a34cc5d9537e643395fab3e21b987",
+    "tests\\init.pp": "14f7ee7de3f5ac49a28eff7c4e9d2b64"
+  },
+  "dependencies": []
+}
