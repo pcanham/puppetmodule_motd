@@ -1,6 +1,11 @@
 # Class: motd
 #
-# This module manages motd
+# This module manages motd, you also have the ability to customise the motd on
+# a server by server basis by adding a /etc/motd.local file to the system and
+# puppet will merge this file into the /etc/motd for you.
+#
+# Additionally you can add in a list of modules puppet is maintaining into the
+# motd as well by using motd::register
 #
 # Parameters: none
 #
@@ -9,6 +14,9 @@
 # Requires: see Modulefile
 #
 # Sample Usage:
+#     class { motd: }
+#
+#     motd::register { 'ntpd': }
 #
 class motd {
 
